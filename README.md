@@ -2,7 +2,7 @@
 This is a graphing app using MFC C ++. Enjoy it :)
 
 Tool -> Options to name the graph, change the background color, and set the axis unit values
-or you can put the axis values at the top oy axis.
+or you can double click to put the axis values at the top oy axis.
 
 Graph -> ... to draw whatever you want
 
